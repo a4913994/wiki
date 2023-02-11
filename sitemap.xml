@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:4000/wiki/year/02/11/test/asd/test/asd/adasdadasd/</loc>
+    <loc>https://a4913994.github.io/wiki/year/02/11/test/asd/test/asd/adasdadasd/</loc>
     
     <lastmod>2023-02-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/wiki/year/02/11/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://a4913994.github.io/wiki/year/02/11/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2023-02-11</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/wiki/tags/index.html</loc>
+    <loc>https://a4913994.github.io/wiki/tags/index.html</loc>
     
     <lastmod>2023-02-11</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/wiki/categories/index.html</loc>
+    <loc>https://a4913994.github.io/wiki/categories/index.html</loc>
     
     <lastmod>2023-02-11</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/wiki/about/index.html</loc>
+    <loc>https://a4913994.github.io/wiki/about/index.html</loc>
     
     <lastmod>2023-02-11</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/wiki/year/02/11/uncategorized/hello-world/</loc>
+    <loc>https://a4913994.github.io/wiki/year/02/11/uncategorized/hello-world/</loc>
     
     <lastmod>2023-02-11</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://localhost:4000/wiki</loc>
+    <loc>https://a4913994.github.io/wiki</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -67,21 +67,21 @@
 
   
   <url>
-    <loc>http://localhost:4000/wiki/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://a4913994.github.io/wiki/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/wiki/categories/test/</loc>
+    <loc>https://a4913994.github.io/wiki/categories/test/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/wiki/categories/test/asd/</loc>
+    <loc>https://a4913994.github.io/wiki/categories/test/asd/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -3,11 +3,11 @@
   <title>计算机之路</title>
   
   
-  <link href="http://localhost:4000/wiki/atom.xml" rel="self"/>
+  <link href="https://a4913994.github.io/wiki/atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/wiki/"/>
+  <link href="https://a4913994.github.io/wiki/"/>
   <updated>2023-02-11T04:33:15.124Z</updated>
-  <id>http://localhost:4000/wiki/</id>
+  <id>https://a4913994.github.io/wiki/</id>
   
   <author>
     <name>刘宪东</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>post</title>
-    <link href="http://localhost:4000/wiki/year/02/11/test/asd/test/asd/adasdadasd/"/>
-    <id>http://localhost:4000/wiki/year/02/11/test/asd/test/asd/adasdadasd/</id>
+    <link href="https://a4913994.github.io/wiki/year/02/11/test/asd/test/asd/adasdadasd/"/>
+    <id>https://a4913994.github.io/wiki/year/02/11/test/asd/test/asd/adasdadasd/</id>
     <published>2023-02-11T04:33:15.000Z</published>
     <updated>2023-02-11T04:33:15.124Z</updated>
     
@@ -36,17 +36,17 @@
     
     
     
-    <category term="test" scheme="http://localhost:4000/wiki/categories/test/"/>
+    <category term="test" scheme="https://a4913994.github.io/wiki/categories/test/"/>
     
-    <category term="asd" scheme="http://localhost:4000/wiki/categories/test/asd/"/>
+    <category term="asd" scheme="https://a4913994.github.io/wiki/categories/test/asd/"/>
     
     
   </entry>
   
   <entry>
     <title>测试</title>
-    <link href="http://localhost:4000/wiki/year/02/11/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://localhost:4000/wiki/year/02/11/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95/</id>
+    <link href="https://a4913994.github.io/wiki/year/02/11/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://a4913994.github.io/wiki/year/02/11/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95/</id>
     <published>2023-02-11T04:09:19.000Z</published>
     <updated>2023-02-11T04:20:07.791Z</updated>
     
@@ -64,15 +64,15 @@
     
     
     
-    <category term="测试" scheme="http://localhost:4000/wiki/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://a4913994.github.io/wiki/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://localhost:4000/wiki/year/02/11/uncategorized/hello-world/"/>
-    <id>http://localhost:4000/wiki/year/02/11/uncategorized/hello-world/</id>
+    <link href="https://a4913994.github.io/wiki/year/02/11/uncategorized/hello-world/"/>
+    <id>https://a4913994.github.io/wiki/year/02/11/uncategorized/hello-world/</id>
     <published>2023-02-11T03:59:09.650Z</published>
     <updated>2023-02-11T03:59:09.650Z</updated>
     
